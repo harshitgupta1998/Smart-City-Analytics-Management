@@ -1,4 +1,4 @@
-#Smart City Analytics and Management
+#Smart City Analytics and Management#
 
 In an era marked by rapid urbanization and digital transformation, cities around the world are
 undergoing a paradigm shift towards becoming smart cities. This transformation is fueled by the
